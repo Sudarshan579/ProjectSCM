@@ -16,7 +16,4 @@ loginForm.addEventListener("submit", function (e) {
   alert("Login submitted!");
 });
 
-signupForm.addEventListener("submit", function (e) {
-  e.preventDefault();
-  alert("Signup submitted!");
-})
+
