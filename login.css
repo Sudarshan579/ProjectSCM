@@ -48,4 +48,21 @@ body {
   border-radius: 6px;
   border: 1px solid #ccc;
 }
+.form button {
+  padding: 10px;
+  background-color: #28a745;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background-color: #218838;
+}
+
+.hidden {
+  display: none;
+}
 
